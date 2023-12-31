@@ -1,0 +1,94 @@
+{
+    "enableAutomaticAdd": true,
+    "shouldMonitor": "entireAuthor",
+    "shouldMonitorExisting": false,
+    "shouldSearch": true,
+    "rootFolderPath": "D:\\Calibre Library\\",
+    "monitorNewItems": "all",
+    "qualityProfileId": 1,
+    "metadataProfileId": 1,
+    "listType": "goodreads",
+    "listOrder": 1,
+    "minRefreshInterval": "12:00:00",
+    "name": "AlyssaBookshelves",
+    "fields": [
+        {
+            "order": 0,
+            "name": "accessToken",
+            "label": "Access Token",
+            "value": "VaiCKzsQ94sdaf6XtvTlg",
+            "type": "textbox",
+            "advanced": false,
+            "hidden": "hidden",
+            "isFloat": false
+        },
+        {
+            "order": 1,
+            "name": "accessTokenSecret",
+            "label": "Access Token Secret",
+            "value": "hOr1lYhRyIIrIoX2tBc7OB38QdGhxa4cb2HepEQwyo",
+            "type": "textbox",
+            "advanced": false,
+            "hidden": "hidden",
+            "isFloat": false
+        },
+        {
+            "order": 2,
+            "name": "requestTokenSecret",
+            "label": "Request Token Secret",
+            "value": "",
+            "type": "textbox",
+            "advanced": false,
+            "hidden": "hidden",
+            "isFloat": false
+        },
+        {
+            "order": 3,
+            "name": "userId",
+            "label": "User Id",
+            "helpText": "User Id to import from. Leave blank to use the authenticated Goodreads user.",
+            "value": "107518177",
+            "type": "textbox",
+            "advanced": true,
+            "isFloat": false
+        },
+        {
+            "order": 4,
+            "name": "userName",
+            "label": "User Name",
+            "value": "Alyssa Inger",
+            "type": "textbox",
+            "advanced": false,
+            "hidden": "hidden",
+            "isFloat": false
+        },
+        {
+            "order": 5,
+            "name": "bookshelfIds",
+            "label": "Bookshelves",
+            "value": [
+                "to-read"
+            ],
+            "type": "bookshelf",
+            "advanced": false,
+            "isFloat": false
+        },
+        {
+            "order": 6,
+            "name": "signIn",
+            "label": "Authenticate with Goodreads",
+            "value": "startOAuth",
+            "type": "oAuth",
+            "advanced": false,
+            "isFloat": false
+        }
+    ],
+    "implementationName": "Goodreads Bookshelves",
+    "implementation": "GoodreadsBookshelf",
+    "configContract": "GoodreadsBookshelfImportListSettings",
+    "infoLink": "https://wiki.servarr.com/readarr/supported#goodreadsbookshelf",
+    "tags": [
+        1
+    ],
+    "id": 2
+}
