@@ -25,11 +25,11 @@ class READARRAPI:
 
 
 # Usage
-
+READARR_api = READARRAPI()
 
 # print(READARR_api.make_request("bookshelf"))
-def getreadarrlists():
-    READARR_api = READARRAPI()
+def getreadarrlists(READARR_api):
+    
     # response = READARR_api.make_request('importlist')
     importlists = READARR_api.make_request("importlist")
     # print(importlists)
@@ -93,6 +93,13 @@ def makegoodreadsrequest(userid):
     print(books_and_authors)
 
 
+def tagbooks(READARR_api):
+    id = "1"
+    test = READARR_api.make_request(f"book?titleSlug=Mom&includeAllAuthorBooks=false")
+
+
+    #Need to include Author ID? Should pull from goodreads?
+    print(test)
 # makegoodreadsrequest("107518177")
 
 
@@ -102,16 +109,17 @@ def parsegoodreads():
     #   content="Alyssa Inger has 63 books on their to-read shelf: My Year of Rest and Relaxation by Ottessa Moshfegh, Lies My Teacher Told Me: Everything Your American H..." />
 
 
-def main():
-    userids = getreadarrlists()
-    for userid in userids:
-        tagname, bookslist = makegoodreadsrequest(userid)
-        for book in bookslist[]:
+def main(READARR_api):
+    # userids = getreadarrlists(READARR_api)
+    # for userid in userids:
+    #     tagname, bookslist = makegoodreadsrequest(userid)
+    #     for book in bookslist[]:
             
-    return None
+    # return None
+    tagbooks(READARR_api)
 
 
-main()
+main(READARR_api)
 # if __name__ == "__main__":
 #     main()
 

@@ -1,0 +1,173 @@
+[
+    {
+        "title": "I'm Glad My Mom Died By Jennette McCurdy, Fight!: Thirty Years Not Quite at the Top By Harry Hill 2 Books Collection Set",
+        "authorTitle": "mccurdy, jennette I'm Glad My Mom Died By Jennette McCurdy, Fight!: Thirty Years Not Quite at the Top By Harry Hill 2 Books Collection Set",
+        "seriesTitle": "",
+        "disambiguation": "",
+        "authorId": 22,
+        "foreignBookId": "144021489",
+        "titleSlug": "144021489",
+        "monitored": false,
+        "anyEditionOk": true,
+        "ratings": {
+            "votes": 58,
+            "value": 3.86,
+            "popularity": 223.88
+        },
+        "releaseDate": "2023-02-11T08:00:00Z",
+        "pageCount": 640,
+        "genres": [],
+        "images": [
+            {
+                "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676700754i/122755659.jpg",
+                "coverType": "cover",
+                "extension": ".jpg"
+            }
+        ],
+        "links": [
+            {
+                "url": "https://www.goodreads.com/work/editions/144021489",
+                "name": "Goodreads Editions"
+            },
+            {
+                "url": "https://www.goodreads.com/book/show/122755659-i-m-glad-my-mom-died-by-jennette-mccurdy-fight",
+                "name": "Goodreads Book"
+            }
+        ],
+        "added": "0001-01-01T08:00:00Z",
+        "remoteCover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1676700754i/122755659.jpg",
+        "grabbed": false
+    },
+    {
+        "title": "I'm Glad My Mom Died",
+        "authorTitle": "mccurdy, jennette I'm Glad My Mom Died",
+        "seriesTitle": "",
+        "disambiguation": "First Simon & Schuster hardcover edition",
+        "authorId": 22,
+        "foreignBookId": "93537110",
+        "titleSlug": "93537110",
+        "monitored": true,
+        "anyEditionOk": true,
+        "ratings": {
+            "votes": 169,
+            "value": 4.49,
+            "popularity": 758.8100000000001
+        },
+        "releaseDate": "2022-08-09T07:00:00Z",
+        "pageCount": 320,
+        "genres": [
+            "non-fiction",
+            "memoir",
+            "audiobook",
+            "biography",
+            "mental-health",
+            "autobiography",
+            "adult",
+            "biography-memoir",
+            "humor",
+            "contemporary"
+        ],
+        "images": [
+            {
+                "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672137432i/75342179.jpg",
+                "coverType": "cover",
+                "extension": ".jpg"
+            }
+        ],
+        "links": [
+            {
+                "url": "https://www.goodreads.com/work/editions/93537110",
+                "name": "Goodreads Editions"
+            },
+            {
+                "url": "https://www.goodreads.com/book/show/75342179-i-m-glad-my-mom-died",
+                "name": "Goodreads Book"
+            }
+        ],
+        "added": "2023-07-21T01:21:58Z",
+        "remoteCover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672137432i/75342179.jpg",
+        "grabbed": false,
+        "id": 121
+    },
+    {
+        "title": "Jenntte Mccurdy New Memoir, I\u2019m Glad My Mom is Dead: An Extremely Complicated Relationship With Her Mother, Career And Eating Disorder",
+        "authorTitle": "kiesel, cassandra Jenntte Mccurdy New Memoir, I\u2019m Glad My Mom is Dead: An Extremely Complicated Relationship With Her Mother, Career And Eating Disorder",
+        "seriesTitle": "",
+        "disambiguation": "",
+        "authorId": 0,
+        "foreignBookId": "97637957",
+        "titleSlug": "97637957",
+        "monitored": false,
+        "anyEditionOk": true,
+        "ratings": {
+            "votes": 301,
+            "value": 4.14,
+            "popularity": 1246.1399999999999
+        },
+        "releaseDate": "2022-08-10T07:00:00Z",
+        "pageCount": 0,
+        "genres": [
+            "audiobook",
+            "memoir"
+        ],
+        "images": [
+            {
+                "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660222240i/61935013.jpg",
+                "coverType": "cover",
+                "extension": ".jpg"
+            }
+        ],
+        "links": [
+            {
+                "url": "https://www.goodreads.com/work/editions/97637957",
+                "name": "Goodreads Editions"
+            },
+            {
+                "url": "https://www.goodreads.com/book/show/61935013-jenntte-mccurdy-new-memoir-i-m-glad-my-mom-is-dead",
+                "name": "Goodreads Book"
+            }
+        ],
+        "added": "0001-01-01T08:00:00Z",
+        "remoteCover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660222240i/61935013.jpg",
+        "grabbed": false
+    },
+    {
+        "title": "Summary of I'm Glad My Mother Died: A Summary of I'm Glad My Mother Died",
+        "authorTitle": "cooper, gregory Summary of I'm Glad My Mother Died: A Summary of I'm Glad My Mother Died",
+        "seriesTitle": "",
+        "disambiguation": "",
+        "authorId": 0,
+        "foreignBookId": "98264326",
+        "titleSlug": "98264326",
+        "monitored": false,
+        "anyEditionOk": true,
+        "ratings": {
+            "votes": 48,
+            "value": 3.88,
+            "popularity": 186.24
+        },
+        "releaseDate": "2022-08-05T07:00:00Z",
+        "pageCount": 0,
+        "genres": [],
+        "images": [
+            {
+                "url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663028722i/62481235.jpg",
+                "coverType": "cover",
+                "extension": ".jpg"
+            }
+        ],
+        "links": [
+            {
+                "url": "https://www.goodreads.com/work/editions/98264326",
+                "name": "Goodreads Editions"
+            },
+            {
+                "url": "https://www.goodreads.com/book/show/62481235-summary-of-i-m-glad-my-mother-died",
+                "name": "Goodreads Book"
+            }
+        ],
+        "added": "0001-01-01T08:00:00Z",
+        "remoteCover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663028722i/62481235.jpg",
+        "grabbed": false
+    }
+]
